@@ -1,2 +1,4 @@
 # syschooeducation
-theme: minima
+# theme: minima
+# _config.yml
+
